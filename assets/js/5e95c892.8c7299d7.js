@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklecciones_docker=self.webpackChunklecciones_docker||[]).push([[647],{7121:(e,c,s)=>{s.r(c),s.d(c,{default:()=>d});s(6540);var r=s(4164),n=s(1003),u=s(7559),a=s(2831),l=s(781),o=s(4848);function d(e){return(0,o.jsx)(n.e3,{className:(0,r.A)(u.G.wrapper.docsPages),children:(0,o.jsx)(l.A,{children:(0,a.v)(e.route.routes)})})}}}]);
