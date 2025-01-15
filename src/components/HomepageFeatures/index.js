@@ -1,7 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
-import useBaseUrl from '@docusaurus/useBaseUrl';
+
 
 // const FeatureList = [
 //   {
@@ -70,7 +70,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 const FeatureList = [
   {
     title: 'Fácil de Aprender',
-    imgSrc: useBaseUrl('/img/aprendizaje.svg'),
+    imgSrc: 'img/aprendizaje.svg',
     description: (
       <>
         Todo está diseñado para que puedas aprender de manera simple y rápida.
@@ -81,7 +81,7 @@ const FeatureList = [
   },
   {
     title: 'Céntrate en lo Importante',
-    imgSrc: useBaseUrl('/img/concentracion.svg'),
+    imgSrc: 'img/concentracion.svg',
     description: (
       <>
         Aquí encuentras lo esencial. Olvídate de perder tiempo buscando
@@ -92,7 +92,7 @@ const FeatureList = [
   },
   {
     title: 'Tecnología a tu Alcance',
-    imgSrc: useBaseUrl('/img/tecnologia.svg'),
+    imgSrc: 'img/tecnologia.svg',
     description: (
       <>
         Usamos las mejores herramientas y tecnologías para asegurarnos de que
