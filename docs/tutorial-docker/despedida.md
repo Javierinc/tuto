@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# 8. No es un Adiós es un Hasta Pronto 👋
+# 9. No es un Adiós es un Hasta Pronto 👋
 
 Por el momento aquí terminamos, esperamos que hayas aprendido y puedas utilizar esta tecnología.
 Iremos actualizando el tutorial cuando corresponda y reparando errores para poder mejorar este proyecto.
