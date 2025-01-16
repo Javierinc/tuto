@@ -192,7 +192,8 @@ docker run -it `
 
 Si todo va bien, deberías ver los logs de tu contenedor en la terminal y al abrir el jokes.txt debería estar el primer chiste de don Chuck.
 
-![runconainer](./img/runapp1.png)
+![runcontainer](./img/runapp1.png)
+
 ---
 ### **Qué hicimos con este comando**
 
