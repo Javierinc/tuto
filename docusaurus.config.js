@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bienvenidos/as 😊',
+  title: 'Tuto 🍗',
   tagline: 'Este es el lugar donde encontrarás tutoriales que podrán ser útil para proyecto de título\n y también para tu futuro laboral',
   favicon: 'img/favicon.ico',
 
